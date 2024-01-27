@@ -15,5 +15,3 @@ The EEG recording devices adopted in this study are two sets of Emotiv Epoc+, wh
 All data were saved as CSV files, each of which was a matrix of dimensions [14, 1536]. It represents 14-channel EEG data with 1536 sample points, the sampling rate of the EEG signals is 256 Hz,i.e. each CSV file has a duration of 6 seconds.
 
 During the game, the EEG signals collected from each pair of participants were organized by "group number-participant number-game set number". Each participant's folder contains EEG data sliced from five rounds of game. 
-
-If you need team flow data set, please send an email to 202100800161@mail.sdu.edu.cn
