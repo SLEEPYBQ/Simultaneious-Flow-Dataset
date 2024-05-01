@@ -1,5 +1,5 @@
 ## Dataset
-The dataset is about 34.4 GB including multi-EEG signals data of team flow from 52 pairs of participants.
+The dataset is about 34.4 GB including multi-EEG signals data of simultaneious flow from 52 pairs of participants.
 
 Although 52 pairs of participants participated in the EEG data acquisition, only 47 pairs of them were included in the final dataset after excluding groups with data acquisition errors and operational failures.
 
