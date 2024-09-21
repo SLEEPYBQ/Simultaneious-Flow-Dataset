@@ -16,4 +16,4 @@ All data were saved as CSV files, each of which was a matrix of dimensions [14, 
 
 During the game, the EEG signals collected from each pair of participants were organized by "group number-participant number-game set number". Each participant's folder contains EEG data sliced from five rounds of game. 
 
-Because of the data sharing policy of our group, data of the paper cannot be released here directly. If you are interested in using the data, please contact the authors , to get them for non-commercial use only. Please provide your name, institution, and purpose of using the data, and please cite the paper if you use the data.
+Because of the data sharing policy of our group, data of the paper cannot be released here directly. If you are interested in using the data, please contact the authors (baiqiao@mail.sdu.edu.cn), to get them for non-commercial use only. Please provide your name, institution, and purpose of using the data, and please cite the paper if you use the data.
