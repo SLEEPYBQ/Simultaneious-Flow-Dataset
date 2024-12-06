@@ -16,4 +16,23 @@ All data were saved as CSV files, each of which was a matrix of dimensions [14, 
 
 During the game, the EEG signals collected from each pair of participants were organized by "group number-participant number-game set number". Each participant's folder contains EEG data sliced from five rounds of game. 
 
+## Citation
+Please cite these papers in your publications if it helps your research:
+
+    @article{zhang2024we,
+    title={Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals},
+    author={Zhang, Baiqiao and Li, Xiangxian and Zhou, Yunfan and Liu, Juan and Zhou, Chao and Liu, Weiying and Bian, Yulong},
+    journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+    volume={8},
+    number={4},
+    pages={1--42},
+    year={2024},
+    publisher={ACM New York, NY, USA}
+    }
+
+## License
 Because of the data sharing policy of our group, data of the paper cannot be released here directly. If you are interested in using the data, please contact the authors (baiqiao@mail.sdu.edu.cn), to get them for non-commercial use only. Please provide your name, institution, and purpose of using the data, and please cite the paper if you use the data.
+
+
+
+
